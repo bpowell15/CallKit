@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin
+        xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        id="call-kit"
+        version="0.0.2">
+
+    <platform name="ios">
+        <framework src="CallKit.framework" />
+    </platform>
+</plugin>
